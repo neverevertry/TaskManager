@@ -15,12 +15,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\XE\source\repos\Tracker\Tracker
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/XE/source/repos/Tracker/Tracker/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/XE/source/repos/Tracker/Tracker/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/XE/source/repos/Tracker/Tracker/Views/Reg/Reg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnXFJlZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/XE/source/repos/Tracker/Tracker/Views/Shared/Error.cshtml]
@@ -29,6 +25,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/XE/source/repos/Tracker/Tracker/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XE/source/repos/Tracker/Tracker/Views/UserTask/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclRhc2tcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XE/source/repos/Tracker/Tracker/Views/UserTask/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclRhc2tcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/XE/source/repos/Tracker/Tracker/Views/UserTask/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclRhc2tcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/XE/source/repos/Tracker/Tracker/Views/_ViewImports.cshtml]

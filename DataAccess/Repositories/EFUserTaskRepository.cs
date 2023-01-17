@@ -31,5 +31,11 @@ namespace DataAccess.Repositories
             _context._userTask.Update(userTask);
             await _context.SaveChangesAsync();
         }
+
+        public async Task Create(UserTask task)
+        {
+            _context._userTask.Add(task);
+            await _context.SaveChangesAsync();
+        }
     }
 }

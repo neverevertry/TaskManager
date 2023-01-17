@@ -78,3 +78,11 @@ C:\Users\XE\source\repos\Tracker\Tracker\obj\Debug\net6.0\refint\Tracker.dll
 C:\Users\XE\source\repos\Tracker\Tracker\obj\Debug\net6.0\Tracker.pdb
 C:\Users\XE\source\repos\Tracker\Tracker\obj\Debug\net6.0\Tracker.genruntimeconfig.cache
 C:\Users\XE\source\repos\Tracker\Tracker\obj\Debug\net6.0\ref\Tracker.dll
+C:\Users\XE\source\repos\Tracker\Tracker\bin\Debug\net6.0\Humanizer.dll
+C:\Users\XE\source\repos\Tracker\Tracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\XE\source\repos\Tracker\Tracker\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\XE\source\repos\Tracker\Tracker\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\XE\source\repos\Tracker\Tracker\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\XE\source\repos\Tracker\Tracker\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\XE\source\repos\Tracker\Tracker\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\XE\source\repos\Tracker\Tracker\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

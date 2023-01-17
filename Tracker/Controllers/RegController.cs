@@ -13,14 +13,14 @@ namespace Tracker.Controllers
             _userService = userService;
         }
 
-        public IActionResult Registration() => View("Registration");
+        public IActionResult Registration() => View("Reg");
 
         [HttpPost]
         public async Task<IActionResult> Registration(User user)
         {
             await _userService.createUser(user);
 
-            return RedirectToAction("Index");
+            return RedirectToAction("Index", "UserTask");
         }
     }
 }

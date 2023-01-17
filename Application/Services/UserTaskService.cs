@@ -60,5 +60,15 @@ namespace Application.Services
 
             throw new Exception("Не удалось обновить");
         }
+
+        public async Task Create(UserTask task)
+        {
+            if(task != null)
+            {
+                await _userTaskRepository.Create(task);
+                return;
+            }
+            throw new Exception("Невозможно создать задачу");
+        }
     }
 }

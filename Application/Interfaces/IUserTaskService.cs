@@ -13,5 +13,6 @@ namespace Application.Interfaces
         Task deleteTask(int id);
         Task<UserTask> getTaskById(int id);
         Task<IEnumerable<UserTask>> getTasks();
+        Task Create(UserTask task);
     }
 }

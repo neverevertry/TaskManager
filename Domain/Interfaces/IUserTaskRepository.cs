@@ -16,5 +16,7 @@ namespace Domain.Interfaces
         Task Update(UserTask userTask);
 
         Task Delete(UserTask userTask);
+
+        Task Create(UserTask task);
     }
 }
