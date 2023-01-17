@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Tracker.Controllers
 {
-    public class UserTaskcController : Controller
+    public class UserTaskController : Controller
     {
         private readonly IUserService _userService;
         private readonly IUserTaskService _userTaskService;
