@@ -10,7 +10,7 @@ namespace Tracker.Controllers
         private readonly IUserTaskService _userTaskService;
         private readonly ICommentService _commentService;
 
-        public UserTaskcController(IUserService userService, IUserTaskService userTaskService, ICommentService commentService)
+        public UserTaskController(IUserService userService, IUserTaskService userTaskService, ICommentService commentService)
         {
             _userService = userService;
             _userTaskService = userTaskService;
